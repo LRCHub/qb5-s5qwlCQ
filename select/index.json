@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Punching Bag",
+  "base_artist": "Set It Off",
+  "createdAt": "2026-03-31T15:47:16.429280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Teenage Punching Bag",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/01_Teenage_Punching_Bag_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "Danger Danger",
+      "has_synced": false,
+      "path": "select/02_Punching_Bag_Danger_Danger.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PUNCHING BAG",
+      "artist": "blackwinterwells",
+      "has_synced": true,
+      "path": "select/03_PUNCHING_BAG_blackwinterwells.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PUNCHING BAG (wells+dltzk)",
+      "artist": "blackwinterwells",
+      "has_synced": true,
+      "path": "select/04_PUNCHING_BAG_(wells+dltzk)_blackwinterwells.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Human Punching Bag",
+      "artist": "Hard Christ",
+      "has_synced": false,
+      "path": "select/05_Human_Punching_Bag_Hard_Christ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "Palaye Royale",
+      "has_synced": true,
+      "path": "select/06_Punching_Bag_Palaye_Royale.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "Set It Off",
+      "has_synced": true,
+      "path": "select/07_Punching_Bag_Set_It_Off.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "The Front Bottoms",
+      "has_synced": false,
+      "path": "select/08_Punching_Bag_The_Front_Bottoms.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Women Natures Punching Bag",
+      "artist": "Anal Cunt",
+      "has_synced": false,
+      "path": "select/09_Women_Natures_Punching_Bag_Anal_Cunt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/10_Punching_Bag_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "The Uneven",
+      "has_synced": true,
+      "path": "select/11_Punching_Bag_The_Uneven.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "Wallice",
+      "has_synced": false,
+      "path": "select/12_Punching_Bag_Wallice.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "Wallice",
+      "has_synced": true,
+      "path": "select/13_Punching_Bag_Wallice.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Human Punching Bag",
+      "artist": "M. Ward",
+      "has_synced": false,
+      "path": "select/14_Human_Punching_Bag_M._Ward.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Punching Bag - Acoustic",
+      "artist": "Set It Off",
+      "has_synced": false,
+      "path": "select/15_Punching_Bag_-_Acoustic_Set_It_Off.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Punching Bag",
+      "artist": "Palaye Royale",
+      "has_synced": true,
+      "path": "select/16_Punching_Bag_Palaye_Royale.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Punching Bag",
+      "artist": "Set It Off",
+      "has_synced": false,
+      "path": "select/pl_01_Punching_Bag_Set_It_Off.txt"
+    }
+  ]
+}
